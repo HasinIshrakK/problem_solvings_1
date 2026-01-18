@@ -1,4 +1,4 @@
-// Reversing
+// Capitalizing
 
 let x = 'hello world';
 let array = x.split(" ");
